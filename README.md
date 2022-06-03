@@ -14,7 +14,7 @@ Hi, I'm Sakshi!
 ```
 peace-chaos26@github
 --------------------
-💻 I work as a Data Science Professional at ZS Associates
+💻 I work as a Data Science Professional at ZS Associates, Bangalore.
 📚 I have a Bachelors in Electronics and Communication Engg from the National Institute of Technology, Kurukshetra.
 📝 I am a keen Natural Language Processing and Graph ML enthusiast!
 🔭 I solve AI healthcare problem statements, patient journey analysis..
