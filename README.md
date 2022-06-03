@@ -6,7 +6,7 @@ Hi, I'm Sakshi!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+Professional;Graph%20NLP%20Explorer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Professional;Graph%20NLP%20Explorer&center=true&width=380&height=45"></a>
 </p>
 
 <hr>
