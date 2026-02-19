@@ -6,7 +6,7 @@ Hi, I'm Sakshi!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Professional;Graph%20NLP%20Explorer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Professional&center=true&width=380&height=45"></a>
 </p>
 
 <hr>
@@ -14,18 +14,14 @@ Hi, I'm Sakshi!
 ```
 peace-chaos26@github
 --------------------
-💻 I work as a Data Science Professional at ZS Associates, Bangalore.
+💻 I work as an AI Professional at ZS Associates, Bangalore.
 📚 I have a Bachelors in Electronics and Communication Engg from the National Institute of Technology, Kurukshetra.
-📝 I am a keen Natural Language Processing and Graph ML enthusiast!
-🔭 I solve AI healthcare problem statements, patient journey analysis..
-🌱 Currently learning about image creation using sequential data and process flows using Graphs!
+📝 I am a keen RF and Graph enthusiast!
+🔭 I solve AI healthcare problem usecases
+🌱 Currently learning about Agents
 🌟 Main languages: Python :)
-🚩 Aspire to be a Full Stack Data Scientist.
-📚 Currently reading..
-    1. My go-to book!! [Hands-On Machine Learning with Scikit Learn, Keras and Tensorflow]
-    2. NLP: [Transformers for Natural Language Processing]
-    3. Statistics: [The Art of Statistics: Learning From Data]
-🎵 Love trance, deep house music, Love reading fantasy, Love sketching abstracts!!
+🚩 Aspire to be a Full Stack AI Scientist.
+🎵 Love trance, deep house music, Love reading fantasy thrillers, Love sketching abstracts!!
 ```
 <hr>
 
