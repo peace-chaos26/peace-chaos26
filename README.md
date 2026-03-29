@@ -105,7 +105,7 @@ currently   : deep in Applied AI and building stuff
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-peace--chaos-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/peace-chaos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshi2606-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](hwww.linkedin.com/in/sakshi2606)
 [![Email](https://img.shields.io/badge/Email-reach_out-1a1a2e?style=for-the-badge&logo=gmail&logoColor=64FFDA)](mailto:ssakshi231@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-peace--chaos26-1a1a2e?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/peace-chaos26)
 
